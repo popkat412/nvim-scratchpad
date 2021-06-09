@@ -72,8 +72,8 @@ The default options are as follows
   to work on windows until I get around to fixing it.
 
 ### 📓 Changelog
-v.0.1.0
-    * Initial release
+**v.0.1.0**
+- Initial release
 
 ### 🙏 Credits
 Credits to [nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) for the very
