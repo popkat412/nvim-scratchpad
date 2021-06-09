@@ -66,11 +66,18 @@ The default options are as follows
 ```
 
 ### Known bugs
-    - Some default functions don't work on Windows because they make
-      use of unix shell commands, e.g. `mktemp`.
-      As a temporary workaround one can customize these functions
-      to work on windows until I get around to fixing it.
+- Some default functions don't work on Windows because they make
+  use of unix shell commands, e.g. `mktemp`.
+  As a temporary workaround one can customize these functions
+  to work on windows until I get around to fixing it.
 
 ### Changelog
 v.0.1.0
     * Initial release
+
+### Credits
+Credits to [nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) for the very
+helpful info in getting me started.
+
+### License
+nvim-scratchpad is licensed under the MIT license. See LICENSE.txt

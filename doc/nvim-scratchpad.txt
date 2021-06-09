@@ -7,9 +7,9 @@ CONTENTS                                    *nvim-scratchpad-contents*
     2. Usage ............ |nvim-scratchpad-usage|
     3. Customization .... |nvim-scratchpad-customization|
     4. Bugs ............. |nvim-scratchpad-bugs|
-    5. Contributing ..... |nvim-scratchpad-contributing|
-    7. Changelog ........ |nvim-scratchpad-changelog|
-    8. Credits .......... |nvim-scratchpad-credits|
+    5. Changelog ........ |nvim-scratchpad-changelog|
+    6. Credits .......... |nvim-scratchpad-credits|
+    7. License .......... |nvim-scratchpad-license|
 
 ====================================================================
 INTRODUCTION                            *nvim-scratchpad-introduction*
@@ -89,3 +89,14 @@ CHANGELOG                                   *nvim-scratchpad-changelog*
 
 v.0.1.0
     * Initial release
+
+=====================================================================
+CREDITS                                       *nvim-scratchpad-credits*
+
+Credits to https://github.com/nanotee/nvim-lua-guide for the very
+helpful info in getting me started.
+
+=====================================================================
+LICENSE                                       *nvim-scratchpad-license*
+
+nvim-scratchpad is licensed under the MIT license.
